@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I specialize in building robust backend systems, scalable data pipelines, and high-performance applications using **Python**, **C# / .NET**. I’m deeply passionate about modular architecture, complex technical domains and leveraging modern AI-assisted development workflows to ship reliable software quickly.
 
-🔭 **Current Focus:** Building production-grade clinical evaluation applications for healthcare tech, simulating algorithmic models in theoretical computer science, and deepening expertise in DSA and system architecture.* 
+🔭 **Current Focus:** Building a clinical evaluation application for healthcare tech, simulating algorithmic models in theoretical computer science, and deepening expertise in DSA and system architecture.* 
 
 ⚡ **Engineering Philosophy:** Defensive coding, clean separation of concerns, and pragmatism over over-engineering.
 
