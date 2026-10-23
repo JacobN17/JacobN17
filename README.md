@@ -10,3 +10,12 @@ Welcome to my GitHub profile! I specialize in building robust backend systems, s
 
 ![Linkedin](https://i.stack.imgur.com/gVE0j.png) **Let's Connect:** Open to engineering opportunities, collaborative projects, and networking with tech professionals, domain experts and fellow industry peers ([https://www.linkedin.com/](https://www.linkedin.com/in/jacob-nona)))
 
+
+
+### 🛠️ Core Tech Stack & Tooling
+
+* **Languages:** Python, C# / .NET, SQL (PostgreSQL, MSSQL)
+* **Backend & Architecture:** ASP.NET Core, Entity Framework Core, RESTful APIs, Clean Architecture, Repository Pattern
+* **Data & Infrastructure:** Docker, PostgreSQL, Redis, Heroku
+* **Developer Workflows:** JetBrains, PowerShell, Git, Jira, LLM Integration / Local AI Workflows
+
