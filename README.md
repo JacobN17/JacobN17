@@ -10,8 +10,3 @@ Welcome to my GitHub profile! I specialize in building robust backend systems, s
 
 ![Linkedin](https://i.stack.imgur.com/gVE0j.png) **Let's Connect:** Open to engineering opportunities, collaborative projects, and networking with tech professionals, domain experts and fellow industry peers ([https://www.linkedin.com/](https://www.linkedin.com/in/jacob-nona)))
 
-
-
-[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobN17&theme=cobalt&show_icons=true&count_private=true)
-
-
