@@ -17,5 +17,5 @@ Welcome to my GitHub profile! I specialize in building robust backend systems, s
 * **Languages:** Python, C# / .NET, SQL (PostgreSQL, MSSQL)
 * **Backend & Architecture:** ASP.NET Core, Entity Framework Core, RESTful APIs, Clean Architecture, Repository Pattern
 * **Data & Infrastructure:** Docker, PostgreSQL, Redis, Heroku
-* **Developer Workflows:** JetBrains, PowerShell, Git, Jira, LLM Integration / Local AI Workflows
+* **Developer Workflows:** JetBrains IDEAs & Junie (AI Assistant), PowerShell, Git, Local AI Workflows with Aider & Ollama
 
